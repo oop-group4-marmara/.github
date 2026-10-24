@@ -7,7 +7,7 @@ Iteration Lead: İbrahim Kabadayı
 
 Quality Lead: Mesut Ahmet Travacı
 
-Integration Lead: Çağatay Kaan Atalay
+Integration Lead: Çağatay Kağan Atalay
 
 Modelling Lead: Ahmad Azizi
 
